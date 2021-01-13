@@ -15,7 +15,7 @@ systemctl stop ModemManager
 
 curl -fsSL get.docker.com | sh
 
-curl -sL "https://raw.githubusercontent.com/Kanga-Who/home-assistant/master/supervised-installer.sh" | bash -s
+curl -sL "https://raw.githubusercontent.com/Reznorzo/hassio.script.test/main/hassio.sh" | bash -s
 ```
 
 ## Working ?
