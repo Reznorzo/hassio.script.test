@@ -2,9 +2,9 @@
 
 Test script based on https://github.com/Kanga-Who/home-assistant/blob/master/hassos_install.sh
 
-To test if can remove prompt for network manager modification, so that us installation script via ansible
+To test if can remove prompt for network manager modification, so that I can use the installation script via ansible
 
-## Instructions
+## Instructions - need to implement into ansible playbook
 
 ```bash
 apt-get install -y software-properties-common apparmor-utils apt-transport-https avahi-daemon ca-certificates curl dbus jq network-manager
