@@ -1,6 +1,6 @@
 # hassio.script.test
 
-Test script based on https://github.com/Kanga-Who/home-assistant/blob/master/hassos_install.sh
+Test script based on https://github.com/Kanga-Who/home-assistant/blob/master/supervised-installer.sh
 
 To test if can remove prompt for network manager modification, so that I can use the installation script via ansible
 
